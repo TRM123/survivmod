@@ -23,6 +23,16 @@
  Thats it! If you followed the instructions, the hacks will be enabled in your next game.
  If you have any questions just message me on snap and ill help you out
  
+ If you have any suggestions, please message me
+ 
+ # FAQ
+ 
+ Q: Can you change bullet damage/health/movespeed/etc?
+ A: No, those are handled by the server and I cannot change them
+ 
+ Q: When is the aimbot coming out?
+ A: I don't know, whenever I feel like making it
+ 
  Have fun and play responsibly
  
  -Cannon
