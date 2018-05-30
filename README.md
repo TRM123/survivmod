@@ -13,7 +13,7 @@
 1. Download and install [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii?hl=en)
 
 2. Go into resource override and fill in the following settings (keep asteriks):
-  Tab URL: '*surviv.io*'
+  Tab URL: '/*surviv.io/*'
   Click add rule and select `URL->File`
   On From: paste `http://surviv.io/js/app.*.js`
   Click edit file, and paste the contents of main.js into it. Make sure you save!
@@ -26,3 +26,5 @@
  Have fun and play responsibly
  
  -Cannon
+
+Note: This is for educational purposes ONLY! DO NOT use this program to gain an unfair advantage! I do not condone any misuse of this program
