@@ -28,10 +28,30 @@
  # FAQ
  
  Q: Can you change bullet damage/health/movespeed/etc?
+ 
  A: No, those are handled by the server and I cannot change them
  
  Q: When is the aimbot coming out?
+ 
  A: I don't know, whenever I feel like making it
+ 
+ Q: Zoom is kind of glitchy, what do I do?
+ 
+ A: Due to how the game loads things around you, at lower scope levels the edge of your vision will be a bit choppy. Pick up a better scope and it will go away.
+ 
+ Q: How does this work exactly?
+ 
+ A: This is a simple modification of the client side java script file for the site, allowing us to make client side changes to the game
+ 
+ Q: Can I get banned?
+ 
+ A: Theoreticly no, as the game has no way to tell that there has been a javascript change. However no promises
+ 
+ Q: I have a suggestion! What should I do?
+ 
+ A: Create a new issue and I will tell you how feasible it will be to implement
+ 
+ 
  
  Have fun and play responsibly
  
